@@ -1,0 +1,5 @@
+- Par défaut, tout est privé dans une classe.
+- Instanciation par pointeur doit etre détruit manuellement.
+- Quick sort
+  1) diviser recursivement le tableau en moitié jusqu'a un seul élt;
+  2) relation d'orde sur les elements;
